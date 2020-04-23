@@ -2,11 +2,14 @@
   "config": {
     "chainId": 1515,
     "homesteadBlock": 0,
+    "eip150Block": 0,
     "eip155Block": 0,
     "eip158Block": 0
   },
   "alloc": {
-    "0x692ba61f3c939121d12f3a969345e476eb9a0fab": { "balance": "12345678901234567890" }
+    "0x692ba61f3c939121d12f3a969345e476eb9a0fab": {
+      "balance": "12345678901234567890"
+    }
   },
   "nonce": "0x000000000000002a",
   "difficulty": "0x050000",

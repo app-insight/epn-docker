@@ -1,1 +1,1 @@
-geth init genesis.json
+geth --nousb init genesis.json
